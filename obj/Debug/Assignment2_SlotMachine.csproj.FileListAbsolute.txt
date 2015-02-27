@@ -1,0 +1,6 @@
+F:\Assignment2_SlotMachine-master\Assignment2_SlotMachine\bin\Assignment2_SlotMachine.dll.config
+F:\Assignment2_SlotMachine-master\Assignment2_SlotMachine\bin\Assignment2_SlotMachine.dll
+F:\Assignment2_SlotMachine-master\Assignment2_SlotMachine\bin\Assignment2_SlotMachine.pdb
+F:\Assignment2_SlotMachine-master\Assignment2_SlotMachine\obj\Debug\Assignment2_SlotMachine.csprojResolveAssemblyReference.cache
+F:\Assignment2_SlotMachine-master\Assignment2_SlotMachine\obj\Debug\Assignment2_SlotMachine.dll
+F:\Assignment2_SlotMachine-master\Assignment2_SlotMachine\obj\Debug\Assignment2_SlotMachine.pdb
