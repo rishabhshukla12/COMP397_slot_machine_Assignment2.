@@ -183,21 +183,21 @@ function SpinButton() {
     for (var spin = 0; spin < 3; spin++) {
         var outCome = Math.floor((Math.random() * 65) + 1);
         if (outCome >= 1 && outCome <= 27)
-            results[spin] = 7; //blanks
+            results[spin] = 7; 
         if (outCome >= 28 && outCome <= 37)
-            results[spin] = 0; //sonic
+            results[spin] = 0; 
         if (outCome >= 38 && outCome <= 46)
-            results[spin] = 1; //tails
+            results[spin] = 1; 
         if (outCome >= 47 && outCome <= 54)
-            results[spin] = 2; //yellowGuy
+            results[spin] = 2; 
         if (outCome >= 55 && outCome <= 59)
-            results[spin] = 3; //robotnic
+            results[spin] = 3; 
         if (outCome >= 60 && outCome <= 62)
-            results[spin] = 4; //bars
+            results[spin] = 4; 
         if (outCome >= 63 && outCome <= 64)
-            results[spin] = 5; //knuckles
+            results[spin] = 5; 
         if (outCome == 65)
-            results[spin] = 6; //rings
+            results[spin] = 6; 
     }
     for (var tile = 0; tile < 3; tile++) {
         if (turn > 0) {
