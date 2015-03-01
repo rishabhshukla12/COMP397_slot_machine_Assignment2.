@@ -1,0 +1,6 @@
+E:\justin\SlotMachineAssignment-master\SlotMachineAssignment\bin\COMP397-CreateJSBoilerPlate.dll.config
+E:\justin\SlotMachineAssignment-master\SlotMachineAssignment\bin\COMP397-CreateJSBoilerPlate.dll
+E:\justin\SlotMachineAssignment-master\SlotMachineAssignment\bin\COMP397-CreateJSBoilerPlate.pdb
+E:\justin\SlotMachineAssignment-master\SlotMachineAssignment\obj\Debug\AssignmentSlotmachine.csprojResolveAssemblyReference.cache
+E:\justin\SlotMachineAssignment-master\SlotMachineAssignment\obj\Debug\COMP397-CreateJSBoilerPlate.dll
+E:\justin\SlotMachineAssignment-master\SlotMachineAssignment\obj\Debug\COMP397-CreateJSBoilerPlate.pdb
